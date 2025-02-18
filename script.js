@@ -13,6 +13,6 @@ nextBtn.addEventListener("click", () => {
         nextClicked = true;
         
     } else {
-        window.location.href= "https://wa.me/6282245578978?text=Terserah%20Mau%20Reply%20Apaaa";
+        window.location.href= "https://wa.me/?text=Terserah%20Mau%20Reply%20Apaaa";
 }
 });
